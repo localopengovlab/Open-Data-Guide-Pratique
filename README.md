@@ -1,5 +1,5 @@
 # Open Data Guide Pratique
-Ouverture des données public guide pratique
+Ouverture des données publiques guide pratique
 ## [ENJEUX ET CADRE LEGAL DES DONNES OUVERTES (L’OPEN DATA)](enjeux/README.md)
  - ### LES FONDAMENTAUX DE L’OPEN DATA
 	 - #### Qu’est-ce que l’Open data ?
